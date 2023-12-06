@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya&family=Noto+Serif+Display:wght@300&family=Noto+Serif:wght@300&family=Public+Sans:wght@200&display=swap');
+.font{
+    font-family: 'Alegreya', serif;
+font-family: 'Noto Serif', serif;
+font-family: 'Noto Serif Display', serif;
+font-family: 'Public Sans', sans-serif;
+}
